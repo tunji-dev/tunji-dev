@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tunji-dev
 - 👀 I’m interested in data science, machine learning and material science (hence material informatics)
 - 🌱 I’m currently learning about machining learning algorithms
-- 💞️ I’m looking to collaborate on data analysis projects in any domain
+- 💞️ I’m looking to collaborate on data analysis and cloud devops projects 
 - 📫 How to reach me ... fagbemitunji92@gmail.com
 
 <!---
